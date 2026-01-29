@@ -7,17 +7,17 @@ const { dataSource } = require('../db/data-source')
 
 const creditPackages = [
     {
-        name: '體驗方案',
+        name: '7 堂組合包方案',
         credit_amount: 7,
         price: 1400
     },
     {
-        name: '基礎方案',
+        name: '14 堂組合包方案',
         credit_amount: 14,
         price: 2520
     },
     {
-        name: '進階方案',
+        name: '21 堂組合包方案',
         credit_amount: 21,
         price: 4800
     }
